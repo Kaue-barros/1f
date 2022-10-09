@@ -1,0 +1,39 @@
+#td {
+
+    text-align: center;
+    background-color: rgba(255, 248, 248, 0.428);
+    scroll-behavior: smooth;
+}
+.insta{
+    text-align: left;
+}
+.insta{
+    text-align: left
+}
+
+#btntop{
+    position: fixed;
+    bottom: 50px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #808080;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+}
+.arrow {
+    border: solid #ff0000;
+    border-width: 0 7px 7px 0;
+    padding: 5px;
+    display: inline-block;
+
+}
+.up{
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+    
+    
+}
